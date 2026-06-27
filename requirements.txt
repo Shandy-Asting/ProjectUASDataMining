@@ -3,6 +3,6 @@ pandas
 numpy
 matplotlib
 seaborn
-tensorflow==2.19.0
+tensorflow-cpu
 scikit-learn
 lightgbm
