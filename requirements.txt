@@ -1,8 +1,8 @@
-    streamlit
-    pandas
-    numpy
-    matplotlib
-    seaborn
-    tensorflow
-    scikit-learn
-    lightgbm
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow==2.19.0
+scikit-learn
+lightgbm
