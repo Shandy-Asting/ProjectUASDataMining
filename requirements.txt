@@ -5,4 +5,5 @@ matplotlib
 seaborn
 scikit-learn
 lightgbm
-tensorflow==2.19.0
+tensorflow-cpu==2.15.0
+joblib
